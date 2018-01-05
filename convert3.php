@@ -1,5 +1,6 @@
 <?php
 
+   // open files to get csv content
     $inputfile = 'tx_tbyouthoffers_download.csv';
     $outputfile = 'socialoffers_download.csv';
          
