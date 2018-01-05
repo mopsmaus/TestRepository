@@ -172,15 +172,6 @@
 
     /**
      * easy image resize function
-     * @param  $file - file name to resize
-     * @param  $string - The image data, as a string
-     * @param  $width - new image width
-     * @param  $height - new image height
-     * @param  $proportional - keep image proportional, default is no
-     * @param  $output - name of the new file (include path if needed)
-     * @param  $delete_original - if true the original image will be deleted
-     * @param  $use_linux_commands - if set to true will use "rm" to delete the image, if false will use PHP unlink
-     * @param  $quality - enter 1-100 (100 is best quality) default is 100
      * @return boolean|resource
      */
     function smart_resize_image($file,

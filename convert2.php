@@ -30,7 +30,7 @@
                 }
         }
         
-        // kontakdaten laden
+        // Kontakdaten laden
         $handle2 = fopen($contactfile, 'r');
 
         $data2 = fgetcsv ($handle2, 0, ';', "'");
