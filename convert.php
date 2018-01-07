@@ -1,5 +1,7 @@
 <?php
 
+    // test
+
     $inputfile = 'tx_tbyouthoffers_objects.csv';
     $outputfile = 'socialoffers.csv';
     $outputfileImage = 'socialoffers_images.csv';
