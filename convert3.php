@@ -1,6 +1,6 @@
 <?php
 
-   // open files to get csv content
+   // open files to get csv content of origin app
     $inputfile = 'tx_tbyouthoffers_download.csv';
     $outputfile = 'socialoffers_download.csv';
          
